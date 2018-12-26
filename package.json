@@ -1,6 +1,6 @@
 {
-  "name": "jacob-duong/awry-utilities",
-  "version": "1.0.99",
+  "name": "jacob-duong-awry-utilities",
+  "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
   "watch": {
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kooinam/awry-utilities.git"
+    "url": "git+https://github.com/jacob-duong/awry-utilities.git"
   },
-  "author": "kooinam <“ngkooinam@gmail.com”>",
+  "author": "jacob <“tuduong.com@gmail.com”>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kooinam/awry-utilities/issues"
+    "url": "https://github.com/jacob-duong/awry-utilities/issues"
   },
-  "homepage": "https://github.com/kooinam/awry-utilities#readme",
+  "homepage": "https://github.com/jacob-duong/awry-utilities#readme",
   "devDependencies": {
     "react": "16.0.0-rc.3",
     "react-dom": "16.0.0-rc.3",
